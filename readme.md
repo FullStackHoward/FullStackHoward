@@ -1,6 +1,6 @@
 <!-- ============================================================
      HOWARD'S GITHUB PROFILE README
-     Creative Hybrid — Dev + Designer + Composer
+     Dev + Designer + Cloud Engineer
      ============================================================ -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a3a1a,100:2d5a2d&height=200&section=header&text=Howard&fontSize=72&fontColor=00FF7F&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Designer%20%7C%20Digital%20Marketer&descAlignY=58&descColor=a0a0b0&animation=fadeIn" />
 
 <!-- TYPING ANIMATION BADGE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Building+things+that+look+good+%26+work+great;Currently%3A+Laravel+%2B+Next.js+%2B+cloud+infrastructure;Open+to+senior+roles+%26+select+freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Building+things+that+look+good+%26+work+great;Engineer+%2B+Designer+%2B+Digital+Marketer;Currently%3A+Laravel+%2B+DJango+%2B+Next.js+%2B+cloud+infrastructure;Open+to+senior+roles+%26+select+freelance)](https://git.io/typing-svg)
 
 <br/>
 
@@ -61,7 +61,9 @@ const howard = {
 | **[howard.codes](https://howard.codes)** | Technical portfolio + recruiter hub | Next.js · TypeScript · Tailwind | 🟢 Live |
 | **[FullStackHoward.com](https://fullstackhoward.com)** | Freelance business hub + lead capture | Next.js · Formspree · Cal.com | 🟢 Live |
 | **[MrHoward.net](https://mrhoward.net)** | Creative portfolio — motion + brand | Next.js · Lottie · Photoshop · Illustrator | 🟢 Live |
-| **Notch64 → Laravel** | Converting static site to full Laravel app | PHP · Laravel · Blade | 🟡 In Progress |
+| **[Notch64.com](https://notch64.com)** | A Laravel App serving dynamic content for my hobby brand | PHP · Laravel · Blade | 🟢 Live |
+| **ViceGamers.com → Django** | Converting static site for gamers to full Django app | Python · Django · PostgreSQL · Tailwind | 🟡 In Progress |
+| **ViceCreators.com → Django** | Converting static site for creatives to full Django app | Python · Django · PostgreSQL · Tailwind | 🔵 Planning |
 
 
 ---
@@ -164,8 +166,8 @@ Currently deepening expertise in cloud infrastructure and modern DevOps practice
               │                  │                  │
    ┌──────────▼──────────┐       │       ┌──────────▼──────────┐
    │     howard.codes    │       │       │     MrHoward.net    │
-   │  Technical portfolio│       │       │  Creative portfolio │
-   │Code & Infrastructure│       │       │  Motion · Brand · UI│
+   │  Technical portfolio│       │       │  Creative portfolio  │
+   │  Recruiters & devs  │       │       │  Motion · Brand · UI  │
    └─────────────────────┘       │       └─────────────────────┘
                                  │
               All three: Next.js · TypeScript · Tailwind
@@ -205,28 +207,3 @@ Currently deepening expertise in cloud infrastructure and modern DevOps practice
 
 </div>
 
-<!-- ============================================================
-     SETUP CHECKLIST — remove this comment block before publishing
-     
-     1. Replace YOUR_GITHUB_USERNAME with your actual GitHub username
-        (appears in 3 places in the Stats section)
-     
-     2. Update the LinkedIn URL with your actual profile link
-     
-     3. Update email address if different from hello@howard.codes
-     
-     4. "Currently Building" table — keep this fresh. 
-        Status key: 🟢 Live  🟡 In Progress  🔴 Paused  🔵 Planning
-     
-     5. "Currently Learning" progress bars — update the █ fills 
-        manually every few weeks. Each full bar = 20 blocks (████).
-        Formula: (percentage / 100) * 20 = number of filled blocks
-     
-     6. To create your special profile repo:
-        - Create a NEW repo named exactly: YOUR_GITHUB_USERNAME
-        - Make it public
-        - Initialize with a README
-        - Paste this content into that README.md
-        - The repo name matching your username is what makes it 
-          show up on your profile page automatically
-     ============================================================ -->
